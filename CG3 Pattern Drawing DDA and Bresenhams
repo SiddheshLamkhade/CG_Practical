@@ -1,5 +1,5 @@
-/*
-4. Write a c++ program for drawing a line using
+/*Pattern drawing using DDA line and Bresenham's Circle
+Write a c++ program for drawing a line using
 DDA and Bresahnams Line Drawing Algorithm
 */
 
