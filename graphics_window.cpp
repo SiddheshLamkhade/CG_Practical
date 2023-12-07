@@ -17,6 +17,6 @@ void main(){
 
     closegraph();                 /*As we have initialized graphics window so we have to close that window
                                        by closegraph fun*/
-    getch();                       //For Ending of program...
-
+    getch();                       /*The function reads one character from the keyboard and returns its ASCII value (without waiting 
+                                      for a return key). In order to work, the user must click in the graphics window*/
 }
