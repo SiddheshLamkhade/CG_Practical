@@ -1,4 +1,4 @@
-//3D trnsformation using openGL
+//3D transformations using openGL
 #include<iostream>
 #include<math.h>
 #include<GL/glut.h>
